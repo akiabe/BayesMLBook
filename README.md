@@ -9,7 +9,7 @@
  - [カテゴリ分布の学習と予測](https://github.com/akiabe/BayesMLBook/blob/main/Categorical.ipynb)
  - [ポアソン分布の学習と予測](https://github.com/akiabe/BayesMLBook/blob/main/Poisson.ipynb)
  - [1次元ガウス分布（平均未知）の学習と予測](https://github.com/akiabe/BayesMLBook/blob/main/Gaussian-Mean.ipynb)
- - 1次元ガウス分布（精度未知）の学習と予測
+ - [1次元ガウス分布（精度未知）の学習と予測](https://github.com/akiabe/BayesMLBook/blob/main/Gaussian-Precison.ipynb)
  - 1次元ガウス分布（平均・精度未知）の学習と予測
  - 多次元ガウス分布（平均未知）の学習と予測
  - 多次元ガウス分布（精度未知）の学習と予測
