@@ -2,7 +2,17 @@
 
 ## MLS「ベイズ推論による機械学習入門」
 
-#### 2章　[基本的な確率分布](https://github.com/akiabe/BayesMLBook/blob/main/Distribution.ipynb)
+#### 2章　基本的な確率分布
+ - ベルヌーイ分布
+ - 二項分布
+ - カテゴリ分布
+ - 多項分布
+ - ポアソン分布
+ - ベータ分布
+ - ディリクレ分布
+ - 1次元ガウス分布
+ - 多次元ガウス分布
+ - ウィシャート分布
 #### 3章　ベイズ推論による学習と予測
  - [ベルヌーイ分布の学習と予測](https://github.com/akiabe/BayesMLBook/blob/main/Bernoulli.ipynb)
  - [カテゴリ分布の学習と予測](https://github.com/akiabe/BayesMLBook/blob/main/Categorical.ipynb)
