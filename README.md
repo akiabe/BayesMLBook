@@ -3,7 +3,7 @@
 ## MLS「ベイズ推論による機械学習入門」
 
 #### 2章　基本的な確率分布
- - ベルヌーイ分布
+ - [ベルヌーイ分布](https://github.com/akiabe/BayesMLBook/blob/main/Bernoulli-dist.ipynb)
  - 二項分布
  - カテゴリ分布
  - 多項分布
