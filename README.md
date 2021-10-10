@@ -13,7 +13,7 @@
  - [多次元ガウス分布（平均未知）の学習と予測](https://github.com/akiabe/BayesMLBook/blob/main/MultivariateGaussian-Mean.ipynb)
  - [多次元ガウス分布（精度未知）の学習と予測](https://github.com/akiabe/BayesMLBook/blob/main/MultivariateGaussian-Precison.ipynb)
  - [多次元ガウス分布（平均・精度未知）の学習と予測](https://github.com/akiabe/BayesMLBook/blob/main/MultivariateGaussian-Mean-Precision.ipynb)
- - 線形回帰モデルの学習と予測
+ - [線形回帰モデルの学習と予測](https://github.com/akiabe/BayesMLBook/blob/main/LinearRegression.ipynb)
 #### 4章　混合モデルと近似推論
  - ポアソン混合モデルにおける推論：ギブスサンプリング
  - ポアソン混合モデルにおける推論：変分推論
