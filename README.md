@@ -4,7 +4,7 @@
 
 #### 2章　基本的な確率分布
  - [ベルヌーイ分布](https://github.com/akiabe/BayesMLBook/blob/main/Bernoulli-dist.ipynb)
- - 二項分布
+ - [二項分布](https://github.com/akiabe/BayesMLBook/blob/main/Binomial-dist.ipynb)
  - カテゴリ分布
  - 多項分布
  - ポアソン分布
