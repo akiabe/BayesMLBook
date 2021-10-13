@@ -7,7 +7,7 @@
  - [二項分布](https://github.com/akiabe/BayesMLBook/blob/main/Binomial-dist.ipynb)
  - [カテゴリ分布](https://github.com/akiabe/BayesMLBook/blob/main/Categorical-dist.ipynb)
  - [多項分布](https://github.com/akiabe/BayesMLBook/blob/main/Multinomial-dist.ipynb)
- - ポアソン分布
+ - [ポアソン分布](https://github.com/akiabe/BayesMLBook/blob/main/Poisson-dist.ipynb)
  - ベータ分布
  - ディリクレ分布
  - 1次元ガウス分布
