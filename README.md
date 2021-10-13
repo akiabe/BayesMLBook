@@ -6,7 +6,7 @@
  - [ベルヌーイ分布](https://github.com/akiabe/BayesMLBook/blob/main/Bernoulli-dist.ipynb)
  - [二項分布](https://github.com/akiabe/BayesMLBook/blob/main/Binomial-dist.ipynb)
  - [カテゴリ分布](https://github.com/akiabe/BayesMLBook/blob/main/Categorical-dist.ipynb)
- - 多項分布
+ - [多項分布](https://github.com/akiabe/BayesMLBook/blob/main/Multinomial-dist.ipynb)
  - ポアソン分布
  - ベータ分布
  - ディリクレ分布
