@@ -10,7 +10,7 @@
  - [ポアソン分布](https://github.com/akiabe/BayesMLBook/blob/main/Poisson-dist.ipynb)
  - [ベータ分布](https://github.com/akiabe/BayesMLBook/blob/main/Beta-dist.ipynb)
  - [ディリクレ分布](https://github.com/akiabe/BayesMLBook/blob/main/Dirichlet-dist.ipynb)
- - [ガンマ分布]()
+ - [ガンマ分布](https://github.com/akiabe/BayesMLBook/blob/main/Gamma-dist.ipynb)
  - 1次元ガウス分布
  - 多次元ガウス分布
  - ウィシャート分布
