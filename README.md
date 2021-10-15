@@ -11,7 +11,7 @@
  - [ベータ分布](https://github.com/akiabe/BayesMLBook/blob/main/Beta-dist.ipynb)
  - [ディリクレ分布](https://github.com/akiabe/BayesMLBook/blob/main/Dirichlet-dist.ipynb)
  - [ガンマ分布](https://github.com/akiabe/BayesMLBook/blob/main/Gamma-dist.ipynb)
- - 1次元ガウス分布
+ - [1次元ガウス分布](https://github.com/akiabe/BayesMLBook/blob/main/Gaussian-dist.ipynb)
  - 多次元ガウス分布
  - ウィシャート分布
 #### 3章　ベイズ推論による学習と予測
