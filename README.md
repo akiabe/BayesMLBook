@@ -12,7 +12,7 @@
  - [ディリクレ分布](https://github.com/akiabe/BayesMLBook/blob/main/Dirichlet-dist.ipynb)
  - [ガンマ分布](https://github.com/akiabe/BayesMLBook/blob/main/Gamma-dist.ipynb)
  - [1次元ガウス分布](https://github.com/akiabe/BayesMLBook/blob/main/Gaussian-dist.ipynb)
- - 多次元ガウス分布
+ - [多次元ガウス分布](https://github.com/akiabe/BayesMLBook/blob/main/src/Multivariate-Gaussian-dist.ipynb)
  - ウィシャート分布
 #### 3章　ベイズ推論による学習と予測
  - [ベルヌーイ分布の学習と予測](https://github.com/akiabe/BayesMLBook/blob/main/Bernoulli.ipynb)
