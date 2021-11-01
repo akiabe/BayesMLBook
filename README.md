@@ -2,7 +2,7 @@
 
 ## MLS「ベイズ推論による機械学習入門」
 
-Juliaで本書の議論をフォローする。
+本書の議論をJuliaでフォローする。
 
 #### 2章　基本的な確率分布
  - [ベルヌーイ分布](https://github.com/akiabe/BayesMLBook/blob/main/Bernoulli-dist.ipynb)
