@@ -2,7 +2,7 @@
 
 ## 機械学習スタートアップシリーズ「ベイズ推論による機械学習入門」
 
-本書の議論をJuliaでフォローする。
+自身の学習のため、本書の内容についてJuliaで確認した。
 
 #### 2章　基本的な確率分布
  - [ベルヌーイ分布](https://github.com/akiabe/BayesMLBook/blob/main/Bernoulli-dist.ipynb)
@@ -32,7 +32,7 @@
  - [ポアソン混合モデルにおける推論：ギブスサンプリング](https://github.com/akiabe/BayesMLBook/blob/main/src/gibbs_poi-mixmodel.ipynb)
  - [ポアソン混合モデルにおける推論：変分推論](https://github.com/akiabe/BayesMLBook/blob/main/src/vi_poi-mixmodel.ipynb)
  - [ポアソン混合モデルにおける推論：崩壊型ギブスサンプリング](https://github.com/akiabe/BayesMLBook/blob/main/src/collapsed-gibbs_poi-mixmodel.ipynb)
- - [ガウス混合モデルにおける推論：ギブスサンプリング](https://github.com/akiabe/BayesMLBook/blob/main/src/gibbs_gauss-mix-model.ipynb)
+ - ガウス混合モデルにおける推論：ギブスサンプリング
  - ガウス混合モデルにおける推論：変分推論
  - ガウス混合モデルにおける推論：崩壊型ギブスサンプリング
 
