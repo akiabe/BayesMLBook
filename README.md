@@ -33,7 +33,7 @@
  - [ポアソン混合モデルにおける推論：変分推論](https://github.com/akiabe/BayesMLBook/blob/main/src/vi_poi-mixmodel.ipynb)
  - [ポアソン混合モデルにおける推論：崩壊型ギブスサンプリング](https://github.com/akiabe/BayesMLBook/blob/main/src/collapsed-gibbs_poi-mixmodel.ipynb)
  - [ガウス混合モデルにおける推論：ギブスサンプリング](https://github.com/akiabe/BayesMLBook/blob/main/src/gauss-mixture-model_gibbs.ipynb)
- - ガウス混合モデルにおける推論：変分推論
+ - [ガウス混合モデルにおける推論：変分推論](https://github.com/akiabe/BayesMLBook/blob/main/src/gauss-mixture-model_VI.ipynb)
  - ガウス混合モデルにおける推論：崩壊型ギブスサンプリング
  #### 5章　応用モデルの構築と推論
  - 線形次元削減
