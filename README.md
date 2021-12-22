@@ -47,7 +47,9 @@
  - ニューラルネットワーク
 
 #### 付録
- - 2次元ガウス分布に対する変分推論
+ - 2次元ガウス分布
+   - ギブスサンプリング
+   - [変分推論](https://github.com/akiabe/BayesMLBook/blob/main/src/2D_Gaussian_VI.ipynb)
  - 変分推論による変化点検知
  - データに欠損のある場合の教師あり学習
 
