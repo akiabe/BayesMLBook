@@ -2,7 +2,7 @@
 
 ## 機械学習スタートアップシリーズ「ベイズ推論による機械学習入門」
 
-本書の内容についてJuliaで確認した。
+本書の内容についてJuliaでトレースし、ベイズ統計モデリングの理論と実装を理解する。
 
 #### 2章　基本的な確率分布
  - [ベルヌーイ分布](https://github.com/akiabe/BayesMLBook/blob/main/Bernoulli-dist.ipynb)
