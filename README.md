@@ -50,4 +50,4 @@
  - 2次元ガウス分布
    - [ギブスサンプリング](https://github.com/akiabe/BayesMLBook/blob/main/src/2D_Gaussian_GS.ipynb)
    - [変分推論](https://github.com/akiabe/BayesMLBook/blob/main/src/2D_Gaussian_VI.ipynb)
- - Turing.jiのイントロ
+ - [Turing.jiのイントロ](https://github.com/akiabe/BayesMLBook/blob/main/src/Introduction_to_Turing.ipynb)
